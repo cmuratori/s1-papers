@@ -1,5 +1,5 @@
-Angiotensin-converting enzyme 2 is a functional receptor for the SARS coronavirus
-[Paper](https://www.nature.com/articles/nature02145.pdf) [DOI](https://doi.org/10.1038/nature02145) [PMID: 14647384](https://pubmed.ncbi.nlm.nih.gov/14647384/)
+Angiotensin-converting enzyme 2 is a functional receptor for the SARS coronavirus  
+[Paper](https://www.nature.com/articles/nature02145.pdf) - [DOI](https://doi.org/10.1038/nature02145) - [PMID: 14647384](https://pubmed.ncbi.nlm.nih.gov/14647384/)
 
 Viral targets for vaccines against COVID-19
 PMID: 33340022
