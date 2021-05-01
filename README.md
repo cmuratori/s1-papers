@@ -2,7 +2,7 @@
 
 The following is an incomplete list of papers relevant to understanding the effects of the SARS-CoV-2 S1 protein.  Each paper has the last known good link to a full PDF, and DOI/PubMed links for easy access to citations.  The PDFs themselves are not included in the repository to avoid any possible copyright issues.
 
-Please note: this collection is _not_ useful for understanding the complete virus, its variants, or the vaccines. If you do not have a solid understanding of SARS-CoV-2 in general, this will not be a good place to start!
+This collection is _not_ meant for understanding the complete virus, its variants, or the vaccines. If you do not have a solid understanding of SARS-CoV-2 in general, this will not be a good place to start!
 
 If you come across interesting S1 protein research you think belongs on this list, please submit a pull request or open an issue so it can be investigated.
 
@@ -14,16 +14,14 @@ Angiotensin-converting enzyme 2 is a functional receptor for the SARS coronaviru
 Viral targets for vaccines against COVID-19  
 [Paper](https://www.nature.com/articles/s41577-020-00480-0.pdf) - [DOI](https://doi.org/10.1038/s41577-020-00480-0) - [PMID 33340022](https://pubmed.ncbi.nlm.nih.gov/33340022/)
 
+SARS-CoV-2 spike protein promotes IL-6 trans-signaling by activation of angiotensin II receptor signaling in epithelial cells  
+[Paper](https://journals.plos.org/plospathogens/article/file?id=10.1371/journal.ppat.1009128&type=printable) - [DOI](https://doi.org/10.1371/journal.ppat.1009128) - [PMID 33284859](https://pubmed.ncbi.nlm.nih.gov/33284859/)
 
+SARS-CoV-2 spike protein S1 subunit induces pro-inflammatory responses via toll-like receptor 4 signaling in murine and human macrophages  
+[Paper](https://www.cell.com/action/showPdf?pii=S2405-8440%2821%2900292-9) - [DOI](https://doi.org/10.1016/j.heliyon.2021.e06187) - [PMID 33644468](https://pubmed.ncbi.nlm.nih.gov/33644468/)
 
-SARS-CoV-2 spike protein promotes IL-6 trans-signaling by activation of angiotensin II receptor signaling in epithelial cells
-https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1009128
-
-SARS-CoV-2 spike protein S1 subunit induces pro-inflammatory responses via toll-like receptor 4 signaling in murine and human macrophages
-https://www.cell.com/heliyon/fulltext/S2405-8440(21)00292-9
-
-The S1 protein of SARS-CoV-2 crosses the blood–brain barrier in mice
-https://www.nature.com/articles/s41593-020-00771-8
+The S1 protein of SARS-CoV-2 crosses the blood–brain barrier in mice  
+[Paper](https://www.nature.com/articles/s41593-020-00771-8.pdf) - [DOI](https://doi.org/10.1038/s41593-020-00771-8) - [PMID 33328624](https://pubmed.ncbi.nlm.nih.gov/33328624/)
 
 The D614G mutation in the SARS-CoV-2 spike protein reduces S1 shedding and increases infectivity
 https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1
