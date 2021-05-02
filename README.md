@@ -11,7 +11,7 @@ If you come across interesting S1 protein research you think belongs on this lis
 
 ## Pending Review:
 
-SARS-CoV-2 Spike Protein Elicits Cell Signaling in Human Host Cells: Implications for Possible Consequences of COVID-19 Vaccines 
+SARS-CoV-2 Spike Protein Elicits Cell Signaling in Human Host Cells: Implications for Possible Consequences of COVID-19 Vaccines  
 [Paper](https://www.mdpi.com/2076-393X/9/1/36/pdf) - [DOI](https://doi.org/10.3390/vaccines9010036) - [PMID 33789211](https://pubmed.ncbi.nlm.nih.gov/33440640/)
 
 Angiotensin-converting enzyme 2 is a functional receptor for the SARS coronavirus  
@@ -32,32 +32,32 @@ The S1 protein of SARS-CoV-2 crosses the blood–brain barrier in mice
 The D614G mutation in the SARS-CoV-2 spike protein reduces S1 shedding and increases infectivity  
 [Paper](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full.pdf) - [DOI](https://doi.org/10.1101/2020.06.12.148726) - [PMID 32587973](https://pubmed.ncbi.nlm.nih.gov/32587973/)
 
-SARS-CoV-2 binds platelet ACE2 to enhance thrombosis in COVID-19
+SARS-CoV-2 binds platelet ACE2 to enhance thrombosis in COVID-19  
 [Paper](https://jhoonline.biomedcentral.com/track/pdf/10.1186/s13045-020-00954-7.pdf)
 [DOI](https://doi.org/10.1186/s13045-020-00954-7)
 [PMID 32887634](https://pubmed.ncbi.nlm.nih.gov/32887634/)
 
-mRNA-based SARS-CoV-2 vaccine candidate CVnCoV induces high levels of virus-neutralising antibodies and mediates protection in rodents
+mRNA-based SARS-CoV-2 vaccine candidate CVnCoV induces high levels of virus-neutralising antibodies and mediates protection in rodents  
 [Paper](https://www.nature.com/articles/s41541-021-00311-w.pdf)
 [DOI](https://doi.org/10.1038/s41541-021-00311-w)
 [PMID 33863911](https://pubmed.ncbi.nlm.nih.gov/33863911/)
 
-SARS-CoV-2 spike protein interactions with amyloidogenic proteins: Potential clues to neurodegeneration
+SARS-CoV-2 spike protein interactions with amyloidogenic proteins: Potential clues to neurodegeneration  
 [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7988450/pdf/main.pdf)
 [DOI](https://doi.org/10.1016/j.bbrc.2021.03.100)
 [PMID 33789211](https://pubmed.ncbi.nlm.nih.gov/33789211/)
 
-SARS-CoV-2 Spike Protein Impairs Endothelial Function via Downregulation of ACE 2
+SARS-CoV-2 Spike Protein Impairs Endothelial Function via Downregulation of ACE 2  
 [Paywalled](https://www.ahajournals.org/doi/10.1161/CIRCRESAHA.121.318902)
 [DOI](https://doi.org/10.1161/CIRCRESAHA.121.318902)
 [PMID 33784827](https://pubmed.ncbi.nlm.nih.gov/33784827/)
 
-A crucial role of angiotensin converting enzyme 2 (ACE2) in SARS coronavirus-induced lung injury
+A crucial role of angiotensin converting enzyme 2 (ACE2) in SARS coronavirus-induced lung injury  
 [Paper](https://www.nature.com/articles/nm1267.pdf)
 [DOI](https://doi.org/10.1038/nm1267)
 [PMID 16007097](https://pubmed.ncbi.nlm.nih.gov/16007097/)
 
-Upregulation of the chemokine (C-C motif) ligand 2 via a severe acute respiratory syndrome coronavirus spike-ACE2 signaling pathway.
+Upregulation of the chemokine (C-C motif) ligand 2 via a severe acute respiratory syndrome coronavirus spike-ACE2 signaling pathway  
 [Paper](https://jvi.asm.org/content/jvi/84/15/7703.full-text.pdf)
 [DOI](https://doi.org/10.1128/jvi.02560-09)
 [PMID 20484496](https://pubmed.ncbi.nlm.nih.gov/20484496/)
